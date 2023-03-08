@@ -19,6 +19,7 @@ Tung2 ="ble5Token"
 Tung3 ="ble6Token"
 Tung4 ="ble7Token"
 Tung5 ="ble7Token"
+Tung6 ="ble7Token"
 password =""
 topic ="v1/devices/me/telemetry"
 
